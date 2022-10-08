@@ -60,7 +60,7 @@ export default () => {
       <h2>Portfolio</h2>
     <div className="service_container">
         <div className="box">
-        <a href="https://github.com/nidhigandhi125/Blog-Place" target="_blank">
+        <a href="https://github.com/nidhigandhi125/BlogPlace-Adobe-xd-" target="_blank">
             <img src={image1} alt="Blogplace"/>
         </a>
             <span>BlogPlace</span>
