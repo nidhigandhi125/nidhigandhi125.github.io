@@ -1,0 +1,19 @@
+
+#tag-cloud{
+    margin-top: 20vh;
+}
+
+.tagcloud{
+    /* position: relative; */
+    display: block;
+    transform: scale(1.2); 
+    margin: 0 20%;
+}
+
+@media screen and (max-width: 600px) {
+    .tagcloud{
+        margin: 25% 15%;
+        /* padding: 20%; */
+    }
+}
+
