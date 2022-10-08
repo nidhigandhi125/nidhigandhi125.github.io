@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/nidhigandhi125/portfolio-website/static/css/main.b1e21ed8.css",
+    "main.js": "/nidhigandhi125/portfolio-website/static/js/main.4ef2ee7c.js",
+    "static/media/eye_for_vision.jpg": "/nidhigandhi125/portfolio-website/static/media/eye_for_vision.b94f4fba81654ec21096.jpg",
+    "static/media/smartbin_model.png": "/nidhigandhi125/portfolio-website/static/media/smartbin_model.40d56eeb3cb4d8aa3cd3.png",
+    "static/media/logo1.png": "/nidhigandhi125/portfolio-website/static/media/logo1.9cad5126ed71b5a939cc.png",
+    "static/media/Nidhi Gandhi Resume.pdf": "/nidhigandhi125/portfolio-website/static/media/Nidhi Gandhi Resume.38d0399df53c541db379.pdf",
+    "static/media/blogplace.png": "/nidhigandhi125/portfolio-website/static/media/blogplace.10e7a5fc56e23f1b2b0f.png",
+    "static/media/m1.png": "/nidhigandhi125/portfolio-website/static/media/m1.01b0046b08cd23825ed2.png",
+    "index.html": "/nidhigandhi125/portfolio-website/index.html",
+    "main.b1e21ed8.css.map": "/nidhigandhi125/portfolio-website/static/css/main.b1e21ed8.css.map",
+    "main.4ef2ee7c.js.map": "/nidhigandhi125/portfolio-website/static/js/main.4ef2ee7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1e21ed8.css",
+    "static/js/main.4ef2ee7c.js"
+  ]
+}
