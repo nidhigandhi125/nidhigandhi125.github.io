@@ -127,6 +127,7 @@
         .about__me-image{
             /* width: 65%; */
             transform: scale(.8);
+            margin-top: 5vh;
             /* margin: 0 auto 3rem; */
         }
     
@@ -142,6 +143,7 @@
     
         .about__content p {
             margin: 1.5rem 0;
+            font-size: small;
         }
         .about__container{
             margin: auto;
